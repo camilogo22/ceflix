@@ -219,5 +219,4 @@ ceflix/
 
 ## Estado del proyecto
 
-Ceflix cuenta con una experiencia de streaming navegable, catálogo separado por categorías, series populares, contenido infantil, descargas con metadatos, perfil personalizado y soporte para navegador y Expo Go. Las imágenes del catálogo se cargan mediante URLs remotas y se recomienda disponer de conexión a internet para visualizar todas las portadas.#   c e f l i x  
- 
+Ceflix cuenta con una experiencia de streaming navegable, catálogo separado por categorías, series populares, contenido infantil, descargas con metadatos, perfil personalizado y soporte para navegador y Expo Go. Las imágenes del catálogo se cargan mediante URLs remotas y se recomienda disponer de conexión a internet para visualizar todas las portadas.
